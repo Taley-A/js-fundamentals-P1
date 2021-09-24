@@ -6,16 +6,15 @@ function exercise6_1() {
   //
   // Write code between the lines (below)
   // -----------------------------------------------------------------
-  // -----------------------------------------------------------------
-  // Write code between the lines (above)
-  //
-  //
-  //
+  for (i = 0; i <= 100; i++) {
+    console.log(i)
+  }
+  // ------------------- 
   //
   //
   //
 }
-
+exercise6_1()
 // Once you are done type the following in the terminal to test your answer(s).
 // yarn test exercise-6.1
 
